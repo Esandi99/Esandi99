@@ -1,14 +1,20 @@
 <h1 align="center">Hi 👋, I'm Esandi</h1>
-<h3 align="center">Data Science Undergrad | On a Journey to Master Data Science and Machine Learning</h3>
 
-- 🌱 I’m currently learning **Data Science, Python, and Cloud Computing.**
+<p align="center">
+	<a href="https://github.com/Esndi99">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Undergrad+|+On+a+Journey+to+Master+Data+Science+and+Machine+Learning&center=true&width=1000&height=45&color=000000">
+	</a>
+</p>
+<hr>
 
-- 📚 Interested in: **AI, Machine Learning, and Data Visualization**
+- 🌱 I’m currently learning **Data Science and Cloud Computing.**
+
+- 📚 Interested in: **AI, Machine Learning, and Data Analysis**
 
 - 🎓 Pursuing a degree in **Data Science at SLIIT.**
 
 - 📫 How to reach me **esandiabeysinghe@gmail.com**
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/esandi-abeysinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esandi abeysinghe" height="30" width="40" /></a>
