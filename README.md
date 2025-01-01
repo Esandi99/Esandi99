@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esandi</h1>
-<h3 align="center">Data Science Undergrad | On a jour On a Journey to Master Data Science and Machine Learning</h3>
+<h3 align="center">Data Science Undergrad | On a Journey to Master Data Science and Machine Learning</h3>
 
 - 🌱 I’m currently learning **Data Science, Python, and Cloud Computing.**
 
